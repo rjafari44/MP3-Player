@@ -1,4 +1,4 @@
-#include "myheader.h"
+#include "config.h"
 
 // main setup that sets up everything to run in loop, returns nothing
 void setup() {

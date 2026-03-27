@@ -1,4 +1,4 @@
-#include "myheader.h"
+#include "config.h"
 
 // function which plays a random track
 // parameters: int &currentTrack -> will get the value of the current track and replace through the pass by reference
